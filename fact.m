@@ -5,3 +5,4 @@
        x = n .* fact(n-1) ;
     end
  end
+ %% Bu odev
